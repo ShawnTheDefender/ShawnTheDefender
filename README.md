@@ -4,7 +4,7 @@
  
 - [Microsoft Sentinel SIEM & Honeypot | Live Cyber Attack Dashboard](https://github.com/ShawnTheDefender/Azure-Sentinel-Honeypot-Lab)
 - [Active Directory Home Lab With Bulk User Creation Using PowerShell]
-- [Nessus Essentials Vulnerability Management Lab]
+- [Nessus Essentials Vulnerability Management Lab](https://github.com/ShawnTheDefender/Nessus-Vulnerability-Management)
 
 <h2>👨🏽‍🎓 Education</h2>
 
