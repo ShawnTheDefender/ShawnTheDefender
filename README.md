@@ -1,4 +1,4 @@
-<h1>Hello, World! I'm Shawn! <br/><a href="[https://jonthecyberguy.tech](https://shawnthedefender.carrd.co/)"</a> Cybersecurity Professional</a> </h1>
+<h1>Hello, World👋! I'm Shawn! <br/><a href="[https://jonthecyberguy.tech](https://shawnthedefender.carrd.co/)"</a> Cybersecurity Professional</a> </h1>
 
 <h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
  
