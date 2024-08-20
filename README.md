@@ -2,7 +2,7 @@
 
 <h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
  
-- [Microsoft Sentinel SIEM & Honeypot | Live Cyber Attack Dashboard](https://github.com/ShawnTheDefender/Azure-Sentinel-Honeypot-Lab)
+- [Microsoft Sentinel SIEM & Honeypot | Live Cyber Attack Dashboard](https://github.com/ShawnTheDefender/Microsoft-Sentinel-Honeypot-Lab)
 - [Active Directory Home Lab With Bulk User Creation Using PowerShell]
 - [Nessus Essentials Vulnerability Management Lab](https://github.com/ShawnTheDefender/Nessus-Vulnerability-Management)
 
