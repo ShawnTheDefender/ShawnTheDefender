@@ -1,6 +1,6 @@
 <h1>Hello, World👋! I'm Shawn! <br/><a href="[https://jonthecyberguy.tech](https://shawnthedefender.carrd.co/)"</a> Cybersecurity Professional</a> </h1>
 
-<h2>👨🏾‍💻 Cybersecrurity Projects:</h2>
+<h2>👨🏽‍💻 Cybersecrurity Projects:</h2>
  
 - [Microsoft Sentinel SIEM & Honeypot | Live Cyber Attack Dashboard](https://github.com/ShawnTheDefender/Microsoft-Sentinel-Honeypot-Lab)
 - [Nessus Essentials Vulnerability Management Lab](https://github.com/ShawnTheDefender/Nessus-Vulnerability-Management)
